@@ -9,7 +9,7 @@
 
 ## Dev UI
 
-请访问: [http://localhost:8080/q/dev](http:://localhost:8080/q/dev)
+请访问: [http://localhost:8080/q/dev](http://localhost:8080/q/dev)
 
 ## 本项目的创建命令
 
@@ -51,4 +51,4 @@ mvn install # Install .JAR to location repository.
 
 ## WIN 10 排错指北
 
-]quarkus 2.1.4 - mvnw quarkus:dev not working on windows 10](https://stackoverflow.com/questions/68958241/quarkus-2-1-4-mvnw-quarkusdev-not-working-on-windows-10)
+[quarkus 2.1.4 - mvnw quarkus:dev not working on windows 10](https://stackoverflow.com/questions/68958241/quarkus-2-1-4-mvnw-quarkusdev-not-working-on-windows-10)
